@@ -32,6 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Personagens One Piece é um site para mostrar alguns personagens do anime.
 
 - [Visite o projeto online](https://williangabriell.github.io/projeto-personagens-onepiece/)
